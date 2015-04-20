@@ -1,1 +1,1 @@
-# chef_sugar
+# chef-sugar
